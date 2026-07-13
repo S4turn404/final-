@@ -3,6 +3,11 @@ body {
 }
 
 
+h1 {
+    font-family: "Special Elite", system-ui;
+}
+
+
 .jumbotron {
     background-color: rgb(255, 236, 212);
     font-family: "Special Elite", system-ui;
@@ -28,4 +33,19 @@ body {
 
 p {
    text-align: justify; 
+}
+
+
+#cardcolor1 {
+    background-color:rgb(255, 223, 202);
+}
+
+
+#cardcolor2 {
+    background-color: rgb(255, 236, 212);
+}
+
+
+a {
+    color: rgb(206, 113, 36);
 }
