@@ -49,3 +49,10 @@ p {
 a {
     color: rgb(206, 113, 36);
 }
+
+
+.footer {
+    background-color: rgba(240, 217, 188, 0.87);
+    width:100vw;
+    height: 30px;
+}
